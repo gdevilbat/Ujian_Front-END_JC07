@@ -1,13 +1,6 @@
-# Soal Ujian Purwadhika Front-End Web JC-07
+# Soal Ujian Ajita Front-End Web JC-07
 
-![Lintang_Purwadhika](https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
-
-**Materi Front-End Web Dev dapat diakses di [klik sini!](https://github.com/LintangWisesa/Purwadhika-JC06-02_FrontEnd)**
-#
-
-Panduan selengkapnya klik video berikut atau [klik di sini!](https://www.youtube.com/watch?v=37NdfNn8a8A)
-
-[![Video_Lintang](https://img.youtube.com/vi/37NdfNn8a8A/0.jpg)](https://www.youtube.com/watch?v=37NdfNn8a8A)
+![Ajita](https://pbs.twimg.com/profile_images/621497344849108992/HOhnHdPX_400x400.jpg)
 
 #
 ### **Soal 1 - Profile Picture Generator**
@@ -18,7 +11,7 @@ Alur kerjanya sederhana: user dapat memasukkan random teks ke dalam textbox inpu
 
 ![Lintang_Avatar](./soal1.png)
 
->_**Catatan:**_ *Deploy project ke __Firebase Hosting__. Commit/upload project ini ke akun Github Anda dengan nama repo: __Profile_Picture_Generator__. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal1-namaAnda__.*
+>_**Catatan:**_ *Deploy project ke __Firebase Hosting__. Commit/upload project ini ke akun Github Anda dengan nama repo: __Profile_Picture_Generator__. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke aldi@ajita.co.id dengan subject email: __Front-Soal1-namaAnda__.*
 
 #
 ### **Soal 2 - Dad Jokes**
@@ -31,7 +24,7 @@ GET https://safe-falls-22549.herokuapp.com/random_joke
 
 ![Lintang_Dad_Jokes](./soal2.png)
 
->_**Catatan:**_ *Deploy project ke __Heroku__. Commit/upload project ini ke akun Github Anda dengan nama repo: **Dad_Jokes**. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal2-namaAnda__.*
+>_**Catatan:**_ *Deploy project ke __Heroku__. Commit/upload project ini ke akun Github Anda dengan nama repo: **Dad_Jokes**. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke aldi@ajita.co.id dengan subject email: __Front-Soal2-namaAnda__.*
 
 #
 ### **Soal 3 - Aplikasi Info Bitcoin**
@@ -61,17 +54,8 @@ Buatlah sebuah aplikasi React yang memanfaatkan info seputar Bitcoin dari Blockc
 
 ![Lintang_Bitcoin](https://4.bp.blogspot.com/-B6q5J-hz70Q/Ww9ic69eVnI/AAAAAAAAELE/W8cStewOUt8tk1NLkdRFArqfKVzgt9C_QCLcBGAs/s1600/soal3a.png)
 
->_**Catatan:**_ *Deploy project ke __Netlify__. Commit/upload project ini ke akun Github Anda dengan nama repo: **React_Bitcoin**. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __Front-Soal3-namaAnda__.*
+>_**Catatan:**_ *Deploy project ke __Netlify__. Commit/upload project ini ke akun Github Anda dengan nama repo: **React_Bitcoin**. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke aldi@ajita.co.id dengan subject email: __Front-Soal3-namaAnda__.*
 
 #
 
 *__#HappyCoding__*
-
-#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
-
-[Facebook](https://www.facebook.com/lintangbagus) | 
-[Twitter](https://twitter.com/Lintang_Wisesa) |
-[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
-[Youtube](https://www.youtube.com/user/lintangbagus) |
-:octocat: [GitHub](https://github.com/LintangWisesa) |
-[Hackster](https://www.hackster.io/lintangwisesa)
