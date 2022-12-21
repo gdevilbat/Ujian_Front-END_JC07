@@ -5,7 +5,7 @@
 #
 ### **Soal 1 - Profile Picture Generator**
 
-Buatlah sebuah project React yang dapat men-generate gambar avatar, dengan memanfaatkan layanan *__Robohash__* [(https://robohash.org/)](https://robohash.org/). Robohash merupakan layanan web untuk menampilkan gambar acak (robot, monster, alien atau kucing) berdasarkan input teks.
+Buatlah sebuah project Vue yang dapat men-generate gambar avatar, dengan memanfaatkan layanan *__Robohash__* [(https://robohash.org/)](https://robohash.org/). Robohash merupakan layanan web untuk menampilkan gambar acak (robot, monster, alien atau kucing) berdasarkan input teks.
 
 Alur kerjanya sederhana: user dapat memasukkan random teks ke dalam textbox input, kemudian gambar avatar akan muncul usai user menekan tombol.
 
@@ -16,7 +16,7 @@ Alur kerjanya sederhana: user dapat memasukkan random teks ke dalam textbox inpu
 #
 ### **Soal 2 - Dad Jokes**
 
-Buatlah sebuah project React yang menampilkan kumpulan lelucon dari __*Joke API*__ [(https://github.com/15Dkatz/official_joke_api)](https://github.com/15Dkatz/official_joke_api). Tampilkan dalam bentuk **Card Bootstrap**, lengkap dengan tombol __Reload__ untuk merefresh page. 
+Buatlah sebuah project Vue yang menampilkan kumpulan lelucon dari __*Joke API*__ [(https://github.com/15Dkatz/official_joke_api)](https://github.com/15Dkatz/official_joke_api). Tampilkan dalam bentuk **Card Bootstrap**, lengkap dengan tombol __Reload__ untuk merefresh page. 
 
 ```bash
 GET https://safe-falls-22549.herokuapp.com/random_joke
@@ -29,9 +29,9 @@ GET https://safe-falls-22549.herokuapp.com/random_joke
 #
 ### **Soal 3 - Aplikasi Info Bitcoin**
 
-Buatlah sebuah aplikasi React yang memanfaatkan info seputar Bitcoin dari Blockchain Exchange Rates API ([https://blockchain.info/api/exchange_rates_api](https://blockchain.info/api/exchange_rates_api)), dengan persyaratan sebagai berikut:
+Buatlah sebuah aplikasi Vue yang memanfaatkan info seputar Bitcoin dari Blockchain Exchange Rates API ([https://blockchain.info/api/exchange_rates_api](https://blockchain.info/api/exchange_rates_api)), dengan persyaratan sebagai berikut:
 
-- **Gunakan navigasi React-Router-DOM**
+- **Gunakan navigasi Vue-Router-DOM**
   - Aplikasi terdiri atas **_3 halaman utama_**: halaman info harga Bitcoin, halaman konversi Rupiah ke Bitcoin dan halaman konversi Bitcoin ke Rupiah. Gunakan Route untuk membuat path bagi setiap halaman.
 
 - **Gunakan Blockchain API**
@@ -54,7 +54,7 @@ Buatlah sebuah aplikasi React yang memanfaatkan info seputar Bitcoin dari Blockc
 
 ![Lintang_Bitcoin](https://4.bp.blogspot.com/-B6q5J-hz70Q/Ww9ic69eVnI/AAAAAAAAELE/W8cStewOUt8tk1NLkdRFArqfKVzgt9C_QCLcBGAs/s1600/soal3a.png)
 
->_**Catatan:**_ *Deploy project ke __Netlify__. Commit/upload project ini ke akun Github Anda dengan nama repo: **React_Bitcoin**. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke aldi@ajita.co.id dengan subject email: __Front-Soal3-namaAnda__.*
+>_**Catatan:**_ *Deploy project ke __Netlify__. Commit/upload project ini ke akun Github Anda dengan nama repo: **Vue_Bitcoin**. Salin file __App.js__ aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project & link url hasil deploy. Kemudian kirimkan via email ke aldi@ajita.co.id dengan subject email: __Front-Soal3-namaAnda__.*
 
 #
 
